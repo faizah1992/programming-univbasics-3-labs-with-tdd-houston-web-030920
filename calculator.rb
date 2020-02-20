@@ -1,1 +1,1 @@
-greeting_programmer("Maria")
+first_number = "Hello world!"
